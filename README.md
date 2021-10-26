@@ -29,9 +29,6 @@ WORK IN PROGRESS
 ## Editor
 ![alt text](https://raw.githubusercontent.com/mechaniac/Map-of-Unity/main/sheets/Unity_Editor.png?raw=true)
 
-## (several)
-![alt text](https://raw.githubusercontent.com/mechaniac/Map-of-Unity/main/sheets/Unity_Parts_02.png?raw=true)
-
 ## Multiplayer
 ![alt text](https://raw.githubusercontent.com/mechaniac/Map-of-Unity/main/sheets/Unity_Multiplayer_01.png?raw=true)
 
